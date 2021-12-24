@@ -1,0 +1,1 @@
+# A_heuristic_algorithm_to_find_rupture_degree_in_graphs
